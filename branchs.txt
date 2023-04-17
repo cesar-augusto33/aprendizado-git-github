@@ -1,0 +1,1 @@
+Ramificação, no controle de versão e gerenciamento de configuração de software, é a duplicação de um objeto sob controle de versão. Cada objeto pode ser modificado separadamente e em paralelo para que os objetos se tornem diferentes. Nesse contexto, os objetos são chamados de branches

@@ -1,0 +1,1 @@
+Se estiver procurando pela versão mais recente, vá para a seção de instalação a partir da origem. O Git provavelmente já está instalado em seu servidor Ubuntu 20.04. Você pode confirmar se este é o caso em seu servidor com o seguinte comando: git --version.

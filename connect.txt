@@ -1,0 +1,1 @@
+Na instalação do GIT vem o GIT BASH. Ele é parecido com o prompt do Windows, você precisará criar a chave SSH por ele, assim você insere a mesma na sua conta do github. Isso autoriza seu computador a enviar arquivos para seu repositório GITHUB online.
